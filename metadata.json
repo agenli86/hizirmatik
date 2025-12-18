@@ -1,0 +1,10 @@
+
+{
+  "name": "Hızır Matik - Akıllı Finans, Sağlık ve Yaşam Araçları",
+  "description": "Döviz hesaplama, kredi taksit takibi, sağlık hesaplayıcıları ve yapay zeka destekli mutfak asistanı ile günlük hayatınızı Hızır Matik ile kolaylaştırın.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
